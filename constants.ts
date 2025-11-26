@@ -5,7 +5,7 @@ export const PERSONAL_INFO = {
   PHONE: "010-6318-6520",
   EMAIL: "jwk112312@naver.com",
   KAKAO_OPENCHAT: "https://open.kakao.com/o/s5b5pJ3h",
-  INSTAGRAM: "https://www.instagram.com/jjangstar_wonkyu/",
+  INSTAGRAM: "https://www.instagram.com/jjangstar_wonkyu",
   YOUTUBE: "https://www.youtube.com/@Dream-On-tv",
   LITTLY: "https://litt.ly/usana_no.1",
   WEBSITE: "https://teammc.usana.com",
